@@ -1,0 +1,15 @@
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\bin\Debug\net7.0\MqProducer.deps.json
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\bin\Debug\net7.0\MqProducer.dll
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\bin\Debug\net7.0\MqProducer.pdb
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\bin\Debug\net7.0\Entity.dll
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\bin\Debug\net7.0\Entity.pdb
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\obj\Debug\net7.0\MqProducer.csproj.AssemblyReference.cache
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\obj\Debug\net7.0\MqProducer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\obj\Debug\net7.0\MqProducer.AssemblyInfoInputs.cache
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\obj\Debug\net7.0\MqProducer.AssemblyInfo.cs
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\obj\Debug\net7.0\MqProducer.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\obj\Debug\net7.0\MqProducer.csproj.CopyComplete
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\obj\Debug\net7.0\MqProducer.dll
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\obj\Debug\net7.0\refint\MqProducer.dll
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\obj\Debug\net7.0\MqProducer.pdb
+C:\Users\Nurlan\RiderProjects\DotNetCoreRabbitMqQueue\MqProducer\obj\Debug\net7.0\ref\MqProducer.dll

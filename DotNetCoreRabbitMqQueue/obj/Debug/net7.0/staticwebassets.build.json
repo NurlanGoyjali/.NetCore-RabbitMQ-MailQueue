@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+w2EHCrWfsF+bIbfowtjRt79ELqZ5K4ptarQgpX80w8=",
+  "Source": "DotNetCoreRabbitMqQueue",
+  "BasePath": "_content/DotNetCoreRabbitMqQueue",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
